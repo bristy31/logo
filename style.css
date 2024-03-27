@@ -1,0 +1,25 @@
+.banner{
+    background:url(img/6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 500px;
+}
+
+.bristi{
+    background: url(img/10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 600px;
+    
+}
+
+.amit{
+    background: url(img/9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    height: 500px;
+    
+}
